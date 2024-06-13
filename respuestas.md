@@ -17,4 +17,8 @@
 
 
 
+## Ejercicio 2 - Pruebas
 
+Creo el archivo PedidosTest y realizo un par de pruebas basicas dentro de el para comprobar que el método CalcularTotal()
+
+e2.png

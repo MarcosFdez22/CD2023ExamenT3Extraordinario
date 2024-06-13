@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: exament3.AppTest
+Test set: exament3.PedidoTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.035 s - in exament3.AppTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 s - in exament3.PedidoTest
