@@ -19,7 +19,7 @@
 
 ## Ejercicio 2 - Pruebas
 
-Creo el archivo PedidosTest y realizo un par de pruebas basicas dentro de el para comprobar que el método CalcularTotal()
+Creo el archivo PedidosTest y realizo un par de pruebas basicas dentro de el para comprobar que el método CalcularTotal() funcione correctamente
 
 ![alt text](e2.png)
 
